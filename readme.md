@@ -5,6 +5,23 @@
 I'm a Front-End Developer with a keen interest in creating visually appealing and user-friendly web applications. As an AI Junior, I'm also delving into the exciting world of artificial intelligence, combining my skills to build intelligent and responsive web interfaces.
 
 ## 🛠 Skills
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	
 
 *Front-End Development:*
 - HTML, CSS, JavaScript
@@ -23,7 +40,12 @@ I'm a Front-End Developer with a keen interest in creating visually appealing an
 - OpenCV
 - Scikit-learn
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently
+
+
+ 
+   
+  working on
 
 - Developing interactive and responsive web applications using React and Vue.js.
 - Enhancing user experiences through seamless and intuitive UI/UX design.
@@ -44,7 +66,7 @@ I'm a Front-End Developer with a keen interest in creating visually appealing an
 ## 📫 How to reach me
 
 - [GitHub](https://github.com/Liliyom)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](www.linkedin.com/in/liliyom-30ba451aa)
 - [Twitter](https://twitter.com/your-twitter-handle)
 
 Feel free to connect with me or check out my projects!
