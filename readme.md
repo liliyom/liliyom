@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Liliyom Karim 👋</h1>
+<h1 align="center">Hi there, I'm Liliyom Karim </h1>
 
 <h3 align="center">Front-End Developer • AI Enthusiast • Building Intelligent Web Experiences</h3>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a **Front-End Developer** with a passion for building visually appealing, user-friendly web applications. I'm also an **AI Junior**, diving into the world of artificial intelligence — combining both skill sets to build intelligent, responsive, and dynamic web interfaces.
 
@@ -30,7 +30,7 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Front-End Development**
 
@@ -75,13 +75,11 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
   <img src="https://streak-stats.demolab.com/?user=Liliyom&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Liliyom/Liliyom/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
+
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/liliyom-30ba451aa">
@@ -92,6 +90,6 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
   </a>
 </p>
 
-<p align="center"><i>Feel free to connect with me or check out my projects — always open to collaboration! 🚀</i></p>
+<p align="center"><i>Feel free to connect with me or check out my projects — always open to collaboration! </i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
