@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Liliyom Karim </h1>
 
-<h3 align="center">Full-stack engineer & AI engineer 
+<h3 align="center">FullStack & AI engineer 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
