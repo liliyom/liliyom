@@ -68,7 +68,7 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 <p align="center">
