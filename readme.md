@@ -80,7 +80,7 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liliyom&theme=redical&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liliyom&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
