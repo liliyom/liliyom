@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Liliyom Karim </h1>
 
-<h3 align="center">Full-stack engineer • AI engineer • Building Web Apps</h3>
+<h3 align="center">Full-stack engineer a& AI engineer 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -20,7 +20,7 @@
 
 ###  About Me
 
-I'm a **Front-End Developer** with a passion for building visually appealing, user-friendly web applications. I'm also an **AI Junior**, diving into the world of artificial intelligence — combining both skill sets to build intelligent, responsive, and dynamic web interfaces.
+I'm an **AI Data Scientist and Full-Stack Engineer** with a passion for building smart, user friendly, and scalable applications. I work across **AI, machine learning, data science, and full-stack development**, combining these skills to create intelligent, responsive, and dynamic solutions for real world problems.
 
 - 🔭 Currently working on interactive React & Vue.js applications with polished UI/UX
 - 🌱 Currently learning advanced front-end performance techniques and ML integration for the web
