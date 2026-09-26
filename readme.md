@@ -90,6 +90,6 @@ I'm an **AI Data Scientist and Full-Stack Engineer** with a passion for building
   </a>
 </p>
 
-<p align="center"><i>Feel free to connect with me or check out my projects always open to collaboration! </i></p>
+<p align="center"><i> check out my projects </i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
