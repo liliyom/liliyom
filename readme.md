@@ -70,9 +70,6 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Liliyom&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Liliyom&theme=radical&hide_border=true" alt="GitHub Streak" />
