@@ -72,7 +72,6 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Liliyom&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liliyom&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -80,11 +79,7 @@ I'm a **Front-End Developer** with a passion for building visually appealing, us
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liliyom&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Liliyom&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/Liliyom/Liliyom/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
